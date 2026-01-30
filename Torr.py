@@ -1,1 +1,1 @@
-print("Torrr")
+print("Akhmetov Torekhan")
